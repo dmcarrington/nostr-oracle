@@ -2,3 +2,5 @@ data/
 __pycache__/
 *.log
 .env
+cloudflared.log
+webhook.log
